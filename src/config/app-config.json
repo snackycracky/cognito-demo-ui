@@ -1,15 +1,15 @@
 {
-    "region": "eu-west-2",
-    "userPool": "eu-west-2_z1Go5XdrZ",
-    "userPoolBaseUri": "https://auth-cognito-demo.arronharden.com",
-    "clientId": "4tnp4k64d5v4ah9dud3pj1kbs0",
-    "callbackUri": "https://cognito-demo.arronharden.com/callback",
-    "signoutUri": "https://cognito-demo.arronharden.com",
-    "tokenScopes": [
-        "openid",
-        "email",
-        "profile",
-        "https://cognito-demo-api.arronharden.com/hello-world.all"                
-    ],
-    "apiUri": "https://cognito-demo-api.arronharden.com"
+  "region": "eu-central-1",
+  "userPool": "eu-central-1_vmLx68VRw",
+  "userPoolBaseUri": "https://astrogeography.auth.eu-central-1.amazoncognito.com",
+  "clientId": "3ueq3162n9ti18r6co7po01cf2",
+  "callbackUri": "https://auth.astrogeography.com/callback",
+  "signoutUri": "https://auth.astrogeography.com",
+  "tokenScopes": [
+      "openid",
+      "email",
+      "profile",
+      "https://cognito-demo-api.arronharden.com/hello-world.all"
+  ],
+  "apiUri": "https://core.astrogeography.com/"
 }
